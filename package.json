@@ -4,16 +4,15 @@
   "description": "Check if there are a update in your defined products",
   "main": "index.js",
   "dependencies": {
-    "colors": "^1.0.3",
-    "got": "^2.2.0",
-    "rc": "^0.5.4"
+    "npm-check-updates": "^1.3.0",
+    "fs": "^0.0.2"
   },
   "scripts": {
     "test": "mocha --timeout 20000"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cedced19/check-update"
+    "url": "git://github.com/jjhesk/hkm-simple-version-checker"
   },
   "keywords": [
     "check",
@@ -26,21 +25,21 @@
     "version"
   ],
   "bugs": {
-    "url": "https://github.com/cedced19/check-update/issues"
+    "url": "https://github.com/jjhesk/hkm-simple-version-checker/issues"
   },
-  "homepage": "https://github.com/cedced19/check-update",
+  "homepage": "https://github.com/jjhesk/hkm-simple-version-checker",
   "devDependencies": {
     "mocha": "^2.1.0"
   },
   "author": {
     "name": "Heskemo",
     "email": "jobhesk@gmail.com",
-    "url": "https://github.com/cedced19"
+    "url": "https://github.com/jjhesk"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://cedced19.github.io/license/"
+      "url": "https://github.com/jjhesk/v-server-sdk-bank/blob/master/LICENSE"
     }
   ]
 }
