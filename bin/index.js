@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-var main = require('../lib/mainengine');
+var main = require('../lib/mainengine.js');

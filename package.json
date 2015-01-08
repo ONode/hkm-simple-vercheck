@@ -1,6 +1,6 @@
 {
   "name": "hkm-simple-vercheck",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Check if there are a update in your defined products",
   "main": "lib/mainengine.js",
   "bin": {
@@ -11,7 +11,8 @@
     "fs": "^0.0.2"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "hkm-simple-vercheck"
   },
   "repository": {
     "type": "git",
